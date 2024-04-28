@@ -70,6 +70,7 @@ function Home() {
                 <br />
                 <textarea
                     id="content"
+                    className="content"
                     name="content"
                     required
                     value={content}
